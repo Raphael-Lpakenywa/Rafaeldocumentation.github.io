@@ -5,6 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     background-position: center;
+    @media
     
 
 }
@@ -167,66 +168,6 @@ h2 {
     color: #fff;
     font-size:x-large;
 }
-
-/* Base styles */
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-  }
-  
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  main {
-    padding: 20px;
-    
-  }
-  
-  /* Media queries for different screen sizes */
-  @media (min-width: 768px) {
-    /* Styles for tablets and larger screens */
-    header {
-      padding: 40px;
-      font-size: 24px;
-    }
-    
-    main {
-      padding: 40px;
-      font-size: 18px;
-    }
-  }
-  
-  @media (min-width: 1024px) {
-    /* Styles for desktop screens */
-    header {
-      padding: 60px;
-      font-size: 36px;
-    }
-    
-    main {
-      padding: 60px;
-      font-size: 24px;
-    }
-  }
-  
-  /* Styles for small screens (e.g., smartphones) */
-  @media (max-width: 480px) {
-    header {
-      padding: 10px;
-      font-size: 16px;
-    }
-    
-    main {
-      padding: 10px;
-      font-size: 14px;
-    }
-  }
-
 
 
 .container2 h3, h4 {
