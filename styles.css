@@ -5,12 +5,12 @@ body {
     display: flex;
     flex-direction: column;
     background-position: center;
-    @media
+  
     
 
 }
 .button-container {
-    position: fixed;
+   
     top: 20px;
     left: 10px;
     z-index: 9999;
