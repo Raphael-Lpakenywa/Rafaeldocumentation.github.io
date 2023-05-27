@@ -82,12 +82,12 @@ body {
 
 
    .search-container {
-    /*position: relative;*/
+    position: relative;
     display: flex;
    }
 
    .search-form {
-    /*position: absolute;*/
+    position: absolute;
     top: 5px;
     right: 0;
     display: flex;
