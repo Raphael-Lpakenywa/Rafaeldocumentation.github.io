@@ -41,12 +41,7 @@ body {
     background-color: #000;
    }
 
-   .search-container {
-    position: relative;
-    display: flex;
-    
-   }
-
+   
    .IoT-button,
    .ML-button,
    .AI-button,
@@ -86,8 +81,13 @@ body {
 
 
 
+   .search-container {
+    /*position: relative;*/
+    display: flex;
+   }
+
    .search-form {
-    position: absolute;
+    /*position: absolute;*/
     top: 5px;
     right: 0;
     display: flex;
